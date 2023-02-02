@@ -2,7 +2,7 @@ import os
 import zipfile 
 import shutil
 
-path = r"C:\Users\ezeki\Desktop\[FreeCoursesOnline.Me] Coursera - IBM Data Analyst Professional Certificate"
+path = r"YOUR_DIRECTORY_HERE"
 
 zipList = []
 
